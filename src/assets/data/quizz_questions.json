@@ -1,5 +1,5 @@
 {
-    "title":"Você seria um heroi ou vilão ?",
+    "title":"Você seria um herói ou vilão ?",
     "questions":[
       {
         "id":1,
@@ -23,7 +23,7 @@
       },
       {
         "id":3,
-        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "question": "Qual a sua maior preocupação ao enfrentar outro super ser ?",
         "options":[
           {"id": 1, "name":"Não destruir prédios", "alias":"B"},
           {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
@@ -49,7 +49,7 @@
       }
     ],
     "results":{
-      "A": "Você muito provavelmente seria um super vilão!",
-      "B": "Você muito provavelmente seria um super Herói!"
+      "A": "Você muito provavelmente seria um Super Vilão!",
+      "B": "Você muito provavelmente seria um Super Herói!"
     }
   }
